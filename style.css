@@ -287,6 +287,134 @@
 }
 
 
+.innovation-zone{
+    max-width:1100px;
+    margin:100px auto;
+    font-family:inter, sans-serif;
+}
+
+
+.hackathon-container{
+
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:20px;
+
+}
+
+
+.hack-card{
+
+    border:1px solid #ddd;
+    border-radius:15px;
+    padding:30px 20px;
+    text-align:center;
+
+}
+
+
+.hack-card i{
+
+    font-size:35px;
+    color:#0d6efd;
+
+}
+
+
+.hack-card h3{
+
+    color:#0B1F3A;
+    margin:15px 0;
+
+}
+
+
+.hack-card h1{
+
+    font-size:28px;
+
+}
+
+
+.gift-card{
+
+    background:#f8f9fa;
+
+}
+
+
+.gift-card p{
+
+    margin:8px;
+    color:#555;
+
+}
+
+
+
+.innovation-zone > .blue-btn{
+
+    display:block;
+    width:220px;
+    text-align:center;
+    margin:40px auto;
+
+}
+
+
+
+/* Experience */
+
+.experience{
+
+    margin-top:80px;
+
+}
+
+
+.experience-container{
+
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:25px;
+
+}
+
+
+.experience-card{
+
+    border:1px solid #ddd;
+    border-radius:15px;
+    padding:30px;
+    text-align:center;
+
+}
+
+
+.experience-card i{
+
+    font-size:35px;
+    color:#0d6efd;
+
+}
+
+
+.experience-card h3{
+
+    color:#0B1F3A;
+
+}
+
+
+.experience-card p{
+
+    color:#555;
+
+}
+
+
+
+
 
 .footer{
     margin: 100px auto 0;
